@@ -14,11 +14,11 @@
 
 Bu proje, create-react-app (CRA) kullanılarak oluşturuldu. Bu projenin çalışması için CRA'yı kurmanız gerekmeyecek. Projeyi uygun bağımlılıklarla kurmak için aşağıdaki adımları izleyin.
 
-- [ ]  Projeyi forklayarak bir kopyasını oluşturun.
-- [ ]  Terminalden klonlayın
-- [ ]  Projenin ana dizinine gidin
-- [ ]  `npm install` komutuyla bağımlılıkları indirin (Tavsiye edilen NPM version: 18)
-- [ ]  `npm start` ile çalıştırın
+- [+]  Projeyi forklayarak bir kopyasını oluşturun.
+- [+]  Terminalden klonlayın
+- [+]  Projenin ana dizinine gidin
+- [+]  `npm install` komutuyla bağımlılıkları indirin (Tavsiye edilen NPM version: 18)
+- [+]  `npm start` ile çalıştırın
 - [ ]  Push commits: git push origin `main`.
 
 ### Görev 2a
